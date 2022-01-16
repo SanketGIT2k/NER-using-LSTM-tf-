@@ -12,4 +12,4 @@ The NLP NER 2.ipynb file contains the preprocessing of the data from TEST.csv, m
 
 The fileDataToExel.ipynb file takes data in .txt files from a folder, seperating the sentences and then appending it into a excel file.
 
-The NLP.ipynb files contain basic data processing that we did to understand the data better. No output form this file isused in the actual project. This was done to learn more about the data and try models on the data to understand the task that we are trying to do.
+The NLP.ipynb files contain basic data processing that we did to understand the data better. No output form this file is used in the actual project. This was done to learn more about the data and try models on the data to understand the task that we are trying to do.
